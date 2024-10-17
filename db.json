@@ -1,0 +1,28 @@
+{
+    "hoteles": [
+        {
+            "id": 1,
+            "name": "Hotel Monis",
+            "description": "Hotel para monines",
+            "image": "/img/hotel1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Hotel Pacifico",
+            "description": "Hotel con vistas al mar",
+            "image": "/img/hotel2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Mountain Retreat",
+            "description": "Un refugio en las montañas",
+            "image": "/img/hotel3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "City Lights Hotel",
+            "description": "Hotel en el centro de la ciudad con vistas espectaculares",
+            "image": "/img/hotel4.jpg"
+        }
+    ]
+}
